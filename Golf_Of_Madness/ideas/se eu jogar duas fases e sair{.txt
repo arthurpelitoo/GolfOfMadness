@@ -1,0 +1,4 @@
+se eu jogar duas fases e sair{
+quero que o jogo salve a fase pelo localStorage e substitua o valor da variável faseAtual pra stage2
+e assim que eu entrar no game e clicar no continue ele volte para a segunda fase.
+}
