@@ -1,0 +1,1 @@
+fazer um cenário com base no topo dos prédios com a lua brilhando de fundo, limitando o jogador a ir apenas para frente.
