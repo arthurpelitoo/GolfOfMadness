@@ -1,0 +1,4 @@
+cortes feitos no game, para melhorar a física:
+
+Remoção do evento da cameraPrimeiraVez. (onde a pessoa encostava na câmera pela primeira vez e aparecia a foto na tela.)
+Remoção da opção de repetir fase (sei que é uma pena remover essa opção, mas não tive escolha, era isso ou outra coisa mais importante.)
